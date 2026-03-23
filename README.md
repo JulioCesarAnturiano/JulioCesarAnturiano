@@ -1,6 +1,6 @@
 <!-- Animated Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Julio%20Cesar%20Anturiano&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Julio%20Cesar%20Anturiano&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=GAME%20DEVELOPER%20MODE%20ACTIVATED&descSize=15&descAlignY=55"/>
 </div>
 
 <!--horizontal divider(gradiant)-->
@@ -16,8 +16,13 @@
 <!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+Flutter+%7C+React+Expert;Building+Awesome+Projects+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=%3E+FULL+STACK+DEVELOPER;%3E+LARAVEL+%7C+FLUTTER+%7C+REACT;%3E+BUILDING+PIXEL+PERFECT+APPS;%3E+LEVEL+UP+EVERYDAY+%F0%9F%8E%AE" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Retro Gaming Terminal Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2000&pause=500&color=0FFF50&center=true&vCenter=true&width=600&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;SYSTEM+ONLINE+%5BREADY%5D;INITIALIZING+CODE+MODE...;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="Terminal SVG" />
 </p>
 
 <!--- snake -->
@@ -35,6 +40,14 @@
     <summary><h2 style="display: inline-block">La confusión es parte de programar 💻</h2></summary>
   </ul>
 </div>
+
+<!-- Retro Pixel Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/LEVEL-∞-00FF00?style=for-the-badge&labelColor=000000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAABxSURBVHjaYvz//z8DJYCJgUIwqpFiGv///z8DiJ0YQOB/AwODIxa1jED8AYj/g9gMODQxAvF/LPrBmiE0TowaRxGN/ynUBKIxqpFcjf+p0AiiMaqRXI3/qdAIojGqkVyN/6nQCKIxqpFcjQC4KzH7p7a6JQAAAABJRU5ErkJggg=="/>
+  <img src="https://img.shields.io/badge/STATUS-CODING-FF00FF?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/COFFEE-MAX-964B00?style=for-the-badge&labelColor=000000&logo=☕"/>
+  <img src="https://img.shields.io/badge/BUGS-0-00FFFF?style=for-the-badge&labelColor=000000&logo=🐛"/>
+</p>
 
 <!--Intro start-->
 - 🔭 Actualmente estoy trabajando en **proyectos con Laravel + Flutter y desarrollo Fullstack con React + Node.js**
@@ -92,6 +105,11 @@
   </ul>
 </div>
 
+<!-- Retro Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%96%BC+MY+TECH+STACK+%E2%96%BC" alt="Tech Stack Title" />
+</p>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -103,6 +121,11 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
+
+<!-- Pixel Art Divider -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=1000&lines=%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93" alt="Divider" />
+</p>
 
 <!-- GitHub 3D Contribution Graph -->
 <div align="center">
@@ -116,6 +139,11 @@
     <summary><h2 style="display: inline-block">Conéctate conmigo 🤝</h2></summary>
   </ul>
 </div>
+
+<!-- Retro Connection Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=500&lines=%E2%96%BA+PRESS+START+TO+CONNECT+%E2%97%84" alt="Connect Title" />
+</p>
 
 <!-- Animated connection line -->
 <div align="center">
@@ -138,6 +166,11 @@
 <!--profile visit count-->
 <div align="center">
 
+<!-- Retro Visitor Counter -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FFFF00&center=true&vCenter=true&width=400&lines=%E2%96%BC+VISITOR+COUNT+%E2%96%BC" alt="Visitor Title" />
+
+<br><br>
+
 [![](https://visitcount.itsvg.in/api?id=JulioCesarAnturiano&icon=3&color=6)](https://visitcount.itsvg.in)
 
 </div>
@@ -154,8 +187,16 @@
 
 <div align="center">
 
-**Made with ❤️ by [Julio Cesar Anturiano](https://github.com/JulioCesarAnturiano)**
+<!-- Retro Footer Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&width=600&lines=MADE+WITH+%E2%9D%A4%EF%B8%8F+BY+JULIO+CESAR+ANTURIANO" alt="Footer" />
 
-_Last Updated: 23/03/2026_
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1&pause=999999&color=808080&center=true&vCenter=true&width=400&lines=%3E+LAST+UPDATED%3A+23%2F03%2F2026" alt="Last Updated" />
+
+<br>
+
+<!-- Extra Retro Badge -->
+<img src="https://img.shields.io/badge/THANK_YOU-FOR_VISITING-FF6347?style=for-the-badge&labelColor=000000"/>
 
 </div>
