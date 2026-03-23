@@ -87,7 +87,7 @@
 
 <!--- trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JulioCesarAnturiano&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JulioCesarAnturiano&theme=matrix&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <!-- GitHub Activity Graph -->
@@ -119,6 +119,18 @@
 <!-- Animated Coding GIF -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
+
+<!-- 3D Contribution Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF1493&center=true&vCenter=true&width=500&lines=%E2%96%BC+3D+CONTRIBUTION+GRID+%E2%96%BC" alt="3D Title" />
+</p>
+
+<!-- GitHub 3D Contribution Graph -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
 <!-- Pixel Art Divider -->
