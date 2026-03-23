@@ -124,29 +124,6 @@
 
 <br>
 
-<!-- Matrix Rain Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&width=500&lines=%E2%96%BC+CODE+IN+THE+MATRIX+%E2%96%BC" alt="Matrix Title" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-</div>
-
-<br>
-
-<!-- 3D Contribution Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF1493&center=true&vCenter=true&width=600&lines=%E2%96%BC+3D+CONTRIBUTION+UNIVERSE+%E2%96%BC" alt="3D Title" />
-</p>
-
-<!-- GitHub 3D Contribution Graph - Night Rainbow -->
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph Night Rainbow" width="100%"/>
-</div>
-
-<br>
-
 <!-- 3D GitBlock Style -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=500&lines=%E2%96%BC+GITBLOCK+3D+VIEW+%E2%96%BC" alt="GitBlock Title" />
@@ -157,15 +134,6 @@
 </div>
 
 <br>
-
-<!-- 3D Season Animate -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%96%BC+SEASONAL+ANIMATION+3D+%E2%96%BC" alt="Season Title" />
-</p>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Season Animated Contribution Graph" width="100%"/>
-</div>
 
 <!-- Pixel Art Divider -->
 <p align="center">
@@ -189,11 +157,11 @@
 
 <!-- 3D Isometric Contribution Calendar -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF6347&center=true&vCenter=true&width=600&lines=%E2%96%BC+ISOMETRIC+3D+CALENDAR+%E2%96%BC" alt="Isometric Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF6347&center=true&vCenter=true&width=600&lines=%E2%96%BC+3D+ANIMATED+CALENDAR+%E2%96%BC" alt="Calendar Title" />
 </p>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00FF41/JulioCesarAnturiano" alt="Contribution Chart" width="100%"/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Animated Calendar" width="100%"/>
 </div>
 
 <br>
