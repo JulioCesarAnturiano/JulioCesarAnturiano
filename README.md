@@ -14,7 +14,7 @@
 <!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=%3E+FULL+STACK+DEVELOPER;%3E+LARAVEL+%7C+FLUTTER+%7C+REACT;%3E+BUILDING+PIXEL+PERFECT+APPS;%3E+LEVEL+UP+EVERYDAY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=%3E+FULL+STACK+DEVELOPER;%3E+LARAVEL+%7C+FLUTTER+%7C+REACT;%3E+AI+%26+N8N+AUTOMATION+EXPERT;%3E+BUILDING+SMART+SOLUTIONS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,11 +47,18 @@
   <img src="https://img.shields.io/badge/BUGS-0-00FFFF?style=for-the-badge&labelColor=000000"/>
 </p>
 
+<!-- AI & Automation Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-ENTHUSIAST-FF6B6B?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/N8N-AUTOMATION-FF4081?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/WORKFLOWS-SMART-4ECDC4?style=for-the-badge&labelColor=000000"/>
+</p>
+
 <br>
 
 <!-- About Me Retro Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&multiline=true&width=900&height=200&lines=%3E+WORKING+ON+LARAVEL+%2B+FLUTTER+FULLSTACK+PROJECTS;%3E+EXPLORING+N8N+AUTOMATION+FOR+SMART+INTEGRATIONS;%3E+ALWAYS+LEARNING+WEB+AND+MOBILE+DEVELOPMENT;%3E+ASK+ME+ABOUT%3A+LARAVEL+PHP+FLUTTER+REACT+NODE+PYTHON;%3E+CONNECT+ON+LINKEDIN+INSTAGRAM+OR+DISCORD" alt="About" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&multiline=true&width=900&height=250&lines=%3E+FULL+STACK+DEVELOPER+LARAVEL+%2B+FLUTTER+%2B+REACT;%3E+AI+ENTHUSIAST+AND+AUTOMATION+SPECIALIST;%3E+BUILDING+SMART+WORKFLOWS+WITH+N8N;%3E+PASSIONATE+ABOUT+ARTIFICIAL+INTELLIGENCE;%3E+ASK+ME%3A+LARAVEL+FLUTTER+REACT+NODE+PYTHON+AI;%3E+CONNECT+ON+LINKEDIN+INSTAGRAM+OR+DISCORD" alt="About" />
 </p>
 
 <br>
@@ -87,7 +94,7 @@
 
 <!--- trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JulioCesarAnturiano&theme=matrix&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JulioCesarAnturiano&theme=matrix&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <!-- GitHub Activity Graph -->
