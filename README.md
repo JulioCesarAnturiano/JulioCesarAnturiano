@@ -54,11 +54,26 @@
   <img src="https://img.shields.io/badge/WORKFLOWS-SMART-4ECDC4?style=for-the-badge&labelColor=000000"/>
 </p>
 
+<!-- Game Development & Languages -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GODOT-GAME_DESIGNER-478CBF?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/GAME-DEVELOPER-FF6347?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/C++-EXPERT-00599C?style=for-the-badge&labelColor=000000"/>
+</p>
+
+<!-- Additional Skills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-PRO-3776AB?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-MASTER-F7DF1E?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/PHP-VETERAN-777BB4?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/JAVA-SKILLED-007396?style=for-the-badge&labelColor=000000"/>
+</p>
+
 <br>
 
 <!-- About Me Retro Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&multiline=true&width=900&height=250&lines=%3E+FULL+STACK+DEVELOPER+LARAVEL+%2B+FLUTTER+%2B+REACT;%3E+AI+ENTHUSIAST+AND+AUTOMATION+SPECIALIST;%3E+BUILDING+SMART+WORKFLOWS+WITH+N8N;%3E+PASSIONATE+ABOUT+ARTIFICIAL+INTELLIGENCE;%3E+ASK+ME%3A+LARAVEL+FLUTTER+REACT+NODE+PYTHON+AI;%3E+CONNECT+ON+LINKEDIN+INSTAGRAM+OR+DISCORD" alt="About" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&multiline=true&width=900&height=300&lines=%3E+FULL+STACK+DEVELOPER+LARAVEL+%2B+FLUTTER+%2B+REACT;%3E+AI+ENTHUSIAST+AND+AUTOMATION+SPECIALIST;%3E+BUILDING+SMART+WORKFLOWS+WITH+N8N;%3E+GAME+DESIGNER+AND+DEVELOPER+WITH+GODOT;%3E+PASSIONATE+ABOUT+ARTIFICIAL+INTELLIGENCE;%3E+LANGUAGES%3A+PHP+PYTHON+JAVA+CPP+JAVASCRIPT+DART;%3E+ASK+ME%3A+LARAVEL+FLUTTER+REACT+NODE+PYTHON+AI+GODOT;%3E+CONNECT+ON+LINKEDIN+INSTAGRAM+OR+DISCORD" alt="About" />
 </p>
 
 <br>
@@ -113,8 +128,13 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,flutter,php,java,cpp,python,js,react,nodejs,postgres,mongodb,html,css,linux,git,github,vscode,docker,mysql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=laravel,flutter,php,java,cpp,python,js,react,nodejs,postgres,mongodb,html,css,linux,git,github,vscode,docker,mysql,godot&perline=10" />
   </a>
+</p>
+
+<!-- Game Dev & Design Badge -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=999999&color=478CBF&center=true&vCenter=true&width=700&lines=%3E+GAME+DESIGN+%26+DEVELOPMENT+WITH+GODOT+ENGINE" alt="Godot Badge" />
 </p>
 
 <!-- Animated Coding GIF -->
@@ -151,17 +171,6 @@
   <a href="https://skyline.github.com/JulioCesarAnturiano/2025">
     <img src="https://img.shields.io/badge/VIEW_MY-GITHUB_SKYLINE_3D-00FFFF?style=for-the-badge&labelColor=000000&logo=github"/>
   </a>
-</div>
-
-<br>
-
-<!-- 3D Isometric Contribution Calendar -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF6347&center=true&vCenter=true&width=600&lines=%E2%96%BC+3D+ANIMATED+CALENDAR+%E2%96%BC" alt="Calendar Title" />
-</p>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Animated Calendar" width="100%"/>
 </div>
 
 <br>
