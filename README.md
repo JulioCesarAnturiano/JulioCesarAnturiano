@@ -82,28 +82,22 @@
 <td width="50%" align="center">
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JulioCesarAnturiano&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <br></br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JulioCesarAnturiano&theme=dark&layout=compact" alt="Wakatime Stats" />
 
 </td>
 </tr>
 </table>
-
-<!-- Trophy Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=400&lines=%E2%96%BC+ACHIEVEMENT+UNLOCKED+%E2%96%BC" alt="Trophy Title" />
 </p>
 
-<!--- trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JulioCesarAnturiano&theme=matrix&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<!-- GitHub Activity Graph -->
+<!-- Coding Activity 3D -->
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=500&lines=%E2%96%BC+ACTIVITY+GRAPH+%E2%96%BC" alt="Activity Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=9745F5&center=true&vCenter=true&width=600&lines=%E2%96%BC+REAL+TIME+CODING+METRICS+%E2%96%BC" alt="Metrics Title" />
 </p>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulioCesarAnturiano&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulioCesarAnturiano&custom_title=Real%20Time%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&title_color=58a6ff&area=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 </p>
@@ -130,20 +124,77 @@
 
 <br>
 
-<!-- 3D Contribution Title -->
+<!-- Matrix Rain Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF1493&center=true&vCenter=true&width=500&lines=%E2%96%BC+3D+CONTRIBUTION+GRID+%E2%96%BC" alt="3D Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&width=500&lines=%E2%96%BC+CODE+IN+THE+MATRIX+%E2%96%BC" alt="Matrix Title" />
 </p>
 
-<!-- GitHub 3D Contribution Graph -->
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</div>
+
+<br>
+
+<!-- 3D Contribution Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF1493&center=true&vCenter=true&width=600&lines=%E2%96%BC+3D+CONTRIBUTION+UNIVERSE+%E2%96%BC" alt="3D Title" />
+</p>
+
+<!-- GitHub 3D Contribution Graph - Night Rainbow -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph Night Rainbow" width="100%"/>
+</div>
+
+<br>
+
+<!-- 3D GitBlock Style -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=500&lines=%E2%96%BC+GITBLOCK+3D+VIEW+%E2%96%BC" alt="GitBlock Title" />
+</p>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D GitBlock Contribution Graph" width="100%"/>
+</div>
+
+<br>
+
+<!-- 3D Season Animate -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%96%BC+SEASONAL+ANIMATION+3D+%E2%96%BC" alt="Season Title" />
+</p>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Season Animated Contribution Graph" width="100%"/>
 </div>
 
 <!-- Pixel Art Divider -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=1000&lines=%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93" alt="Divider" />
 </p>
+
+<br>
+
+<!-- GitHub Skyline 3D -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=500&lines=%E2%96%BC+GITHUB+SKYLINE+3D+%E2%96%BC" alt="Skyline Title" />
+</p>
+
+<div align="center">
+  <a href="https://skyline.github.com/JulioCesarAnturiano/2025">
+    <img src="https://img.shields.io/badge/VIEW_MY-GITHUB_SKYLINE_3D-00FFFF?style=for-the-badge&labelColor=000000&logo=github"/>
+  </a>
+</div>
+
+<br>
+
+<!-- 3D Isometric Contribution Calendar -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF6347&center=true&vCenter=true&width=600&lines=%E2%96%BC+ISOMETRIC+3D+CALENDAR+%E2%96%BC" alt="Isometric Title" />
+</p>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00FF41/JulioCesarAnturiano" alt="Contribution Chart" width="100%"/>
+</div>
 
 <br>
 
