@@ -1,22 +1,20 @@
 <!-- Animated Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Julio%20Cesar%20Anturiano&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=GAME%20DEVELOPER%20MODE%20ACTIVATED&descSize=15&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JULIO%20CESAR%20ANTURIANO&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=GAME%20DEVELOPER%20MODE%20ACTIVATED&descSize=15&descAlignY=55"/>
 </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Julio Cesar</h1></summary>
-  </ul>
-</div>
+<!-- Main Title Retro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=1&pause=999999&color=FF6347&center=true&vCenter=true&width=800&lines=%E2%96%BA+HELLO+WORLD%21+I+AM+JULIO+CESAR+%E2%97%84" alt="Hello" />
+</p>
 
 <!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=%3E+FULL+STACK+DEVELOPER;%3E+LARAVEL+%7C+FLUTTER+%7C+REACT;%3E+BUILDING+PIXEL+PERFECT+APPS;%3E+LEVEL+UP+EVERYDAY+%F0%9F%8E%AE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=%3E+FULL+STACK+DEVELOPER;%3E+LARAVEL+%7C+FLUTTER+%7C+REACT;%3E+BUILDING+PIXEL+PERFECT+APPS;%3E+LEVEL+UP+EVERYDAY" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,45 +32,44 @@
   </picture>
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">La confusión es parte de programar 💻</h2></summary>
-  </ul>
-</div>
+<br>
+
+<!-- Section Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=999999&color=FF00FF&center=true&vCenter=true&width=700&lines=%E2%96%BC+CONFUSION+IS+PART+OF+PROGRAMMING+%E2%96%BC" alt="Section Title" />
+</p>
 
 <!-- Retro Pixel Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-∞-00FF00?style=for-the-badge&labelColor=000000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAABxSURBVHjaYvz//z8DJYCJgUIwqpFiGv///z8DiJ0YQOB/AwODIxa1jED8AYj/g9gMODQxAvF/LPrBmiE0TowaRxGN/ynUBKIxqpFcjf+p0AiiMaqRXI3/qdAIojGqkVyN/6nQCKIxqpFcjQC4KzH7p7a6JQAAAABJRU5ErkJggg=="/>
+  <img src="https://img.shields.io/badge/LEVEL-%E2%88%9E-00FF00?style=for-the-badge&labelColor=000000"/>
   <img src="https://img.shields.io/badge/STATUS-CODING-FF00FF?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/COFFEE-MAX-964B00?style=for-the-badge&labelColor=000000&logo=☕"/>
-  <img src="https://img.shields.io/badge/BUGS-0-00FFFF?style=for-the-badge&labelColor=000000&logo=🐛"/>
+  <img src="https://img.shields.io/badge/COFFEE-MAX-964B00?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/BUGS-0-00FFFF?style=for-the-badge&labelColor=000000"/>
 </p>
 
-<!--Intro start-->
-- 🔭 Actualmente estoy trabajando en **proyectos con Laravel + Flutter y desarrollo Fullstack con React + Node.js**
+<br>
 
-- 🤖 Explorando la **automatización de flujos con n8n** para construir integraciones inteligentes
+<!-- About Me Retro Style -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&multiline=true&width=900&height=200&lines=%3E+WORKING+ON+LARAVEL+%2B+FLUTTER+FULLSTACK+PROJECTS;%3E+EXPLORING+N8N+AUTOMATION+FOR+SMART+INTEGRATIONS;%3E+ALWAYS+LEARNING+WEB+AND+MOBILE+DEVELOPMENT;%3E+ASK+ME+ABOUT%3A+LARAVEL+PHP+FLUTTER+REACT+NODE+PYTHON;%3E+CONNECT+ON+LINKEDIN+INSTAGRAM+OR+DISCORD" alt="About" />
+</p>
 
-- 🌱 Siempre aprendiendo y mejorando mis habilidades en **desarrollo web y móvil**
+<br>
 
-- 💬 Pregúntame sobre **Laravel, Flutter, PHP, React, Node.js, Python, PostgreSQL, MongoDB**
-
-- 📫 Conéctate conmigo en LinkedIn o Instagram, ¡siempre abierto a colaborar!
-
-- 🏠 También puedes encontrarme en Discord
-<!--Intro end-->
+<!-- Stats Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%96%BC+PLAYER+STATISTICS+%E2%96%BC" alt="Stats Title" />
+</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulioCesarAnturiano&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Julio streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JulioCesarAnturiano&theme=dark&hide_border=false" />
+  <img alt="Julio streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JulioCesarAnturiano&theme=dark&hide_border=false" />
 </td>
 
 <td width="50%" align="center">
@@ -82,15 +79,22 @@
 </td>
 </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
+<!-- Trophy Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=400&lines=%E2%96%BC+ACHIEVEMENT+UNLOCKED+%E2%96%BC" alt="Trophy Title" />
+</p>
+
+<!--- trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JulioCesarAnturiano&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JulioCesarAnturiano&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
-<!--- trophy (end) -->
 
 <!-- GitHub Activity Graph -->
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=500&lines=%E2%96%BC+ACTIVITY+GRAPH+%E2%96%BC" alt="Activity Title" />
+</p>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulioCesarAnturiano&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="100%"/>
 </div>
@@ -98,14 +102,9 @@
 </p>
 <!--- stats (end) -->
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que manejo 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<br>
 
-<!-- Retro Title -->
+<!-- Tech Stack Title -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%96%BC+MY+TECH+STACK+%E2%96%BC" alt="Tech Stack Title" />
 </p>
@@ -127,22 +126,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=1000&lines=%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93" alt="Divider" />
 </p>
 
-<!-- GitHub 3D Contribution Graph -->
-<div align="center">
-  <img src="https://github.com/JulioCesarAnturiano/JulioCesarAnturiano/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
+<br>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate conmigo 🤝</h2></summary>
-  </ul>
-</div>
-
-<!-- Retro Connection Title -->
+<!-- Connect Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=500&lines=%E2%96%BA+PRESS+START+TO+CONNECT+%E2%97%84" alt="Connect Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=600&lines=%E2%96%BA+PRESS+START+TO+CONNECT+%E2%97%84" alt="Connect Title" />
 </p>
 
 <!-- Animated connection line -->
@@ -163,6 +151,8 @@
 </a>
 </p>
 
+<br>
+
 <!--profile visit count-->
 <div align="center">
 
@@ -175,10 +165,14 @@
 
 </div>
 
+<br>
+
 <!-- Random Dev Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
+
+<br>
 
 <!-- Animated Footer Wave -->
 <div align="center">
@@ -188,7 +182,7 @@
 <div align="center">
 
 <!-- Retro Footer Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&width=600&lines=MADE+WITH+%E2%9D%A4%EF%B8%8F+BY+JULIO+CESAR+ANTURIANO" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&width=600&lines=MADE+WITH+LOVE+BY+JULIO+CESAR+ANTURIANO" alt="Footer" />
 
 <br><br>
 
