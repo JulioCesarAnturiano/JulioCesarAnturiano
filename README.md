@@ -1,3 +1,8 @@
+<!-- Animated Header Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Julio%20Cesar%20Anturiano&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -7,6 +12,13 @@
     <summary><h1 style="display: inline-block">Hola 👋, soy Julio Cesar</h1></summary>
   </ul>
 </div>
+
+<!-- Typing SVG Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+Flutter+%7C+React+Expert;Building+Awesome+Projects+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+</p>
 
 <!--- snake -->
 <div align="center">
@@ -61,11 +73,14 @@
 
 <!--- trophy (start) -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JulioCesarAnturiano&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=JulioCesarAnturiano&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
 </div>
 <!--- trophy (end) -->
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulioCesarAnturiano&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="100%"/>
+</div>
 
 </p>
 <!--- stats (end) -->
@@ -84,12 +99,27 @@
   </a>
 </p>
 
+<!-- Animated Coding GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<!-- GitHub 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github.com/JulioCesarAnturiano/JulioCesarAnturiano/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Conéctate conmigo 🤝</h2></summary>
   </ul>
+</div>
+
+<!-- Animated connection line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
 <!--icons and links-->
@@ -107,15 +137,25 @@
 
 <!--profile visit count-->
 <div align="center">
-  
+
 [![](https://visitcount.itsvg.in/api?id=JulioCesarAnturiano&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
-----------------------------------------------------------------------
-Credit: [JulioCesarAnturiano](https://github.com/JulioCesarAnturiano)
+<!-- Animated Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
-Last Edited on: 23/03/2026
+<div align="center">
+
+**Made with ❤️ by [Julio Cesar Anturiano](https://github.com/JulioCesarAnturiano)**
+
+_Last Updated: 23/03/2026_
+
+</div>
