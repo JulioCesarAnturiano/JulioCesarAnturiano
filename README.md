@@ -145,17 +145,17 @@
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/YourUsername"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/></a>
+  <a href="https://codeforces.com/profile/julioAnt"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/></a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/YourUsername/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://atcoder.jp/users/julioAnt"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="60px"/></a>
   &nbsp;&nbsp;
-  <a href="https://atcoder.jp/users/YourUsername"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="60px"/></a>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" style="opacity: 0.6;"/>
   &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/YourUsername"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef"/></a>
+  <img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef" style="opacity: 0.6;"/>
   &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/YourUsername"><img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="HackerRank" width="50px"/></a>
+  <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="HackerRank" width="50px" style="opacity: 0.6;"/>
   &nbsp;&nbsp;
-  <a href="https://www.codingame.com/profile/YourUsername"><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="CodinGame" width="80" height="40"/></a>
+  <img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="CodinGame" width="80" height="40" style="opacity: 0.6;"/>
 </p>
 
 <br>
