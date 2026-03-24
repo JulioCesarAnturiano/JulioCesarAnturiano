@@ -1,6 +1,6 @@
 <!-- Animated Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JULIO%20CESAR%20ANTURIANO&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=GAME%20DEVELOPER%20MODE%20ACTIVATED&descSize=15&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JULIO%20CESAR%20ANTURIANO&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=STUDENT%20INFORMATIC%20ENGINEER&descSize=15&descAlignY=55"/>
 </div>
 
 <!--horizontal divider(gradiant)-->
