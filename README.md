@@ -132,6 +132,54 @@
   </a>
 </p>
 
+<!-- Competitive Programming Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=999999&color=FF6347&center=true&vCenter=true&width=700&lines=%E2%96%BC+COMPETITIVE+PROGRAMMING+ARENA+%E2%96%BC" alt="Competitive Programming Title" />
+</p>
+
+<br>
+
+<!-- Competitive Programming Profiles -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=600&lines=%3E+MY+COMPETITIVE+PROGRAMMING+PROFILES+%3C" alt="CP Profiles" />
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/YourUsername"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/></a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/YourUsername/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  &nbsp;&nbsp;
+  <a href="https://atcoder.jp/users/YourUsername"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="60px"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/YourUsername"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/YourUsername"><img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="HackerRank" width="50px"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.codingame.com/profile/YourUsername"><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="CodinGame" width="80" height="40"/></a>
+</p>
+
+<br>
+
+<!-- Competitive Programming Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CODEFORCES-SOLVE_PROBLEMS-1F8ACB?style=for-the-badge&labelColor=000000&logo=codeforces"/>
+  <img src="https://img.shields.io/badge/LEETCODE-ALGORITHM_MASTER-FFA116?style=for-the-badge&labelColor=000000&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/ATCODER-COMPETITIVE_CODER-FF6347?style=for-the-badge&labelColor=000000"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CODECHEF-PROBLEM_SOLVER-5B4638?style=for-the-badge&labelColor=000000&logo=codechef"/>
+  <img src="https://img.shields.io/badge/HACKERRANK-ALGORITHM_PRO-2EC866?style=for-the-badge&labelColor=000000&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/DSA-DATA_STRUCTURES-9745F5?style=for-the-badge&labelColor=000000"/>
+</p>
+
+<!-- CP Skills Retro Style -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+ALGORITHMS+%7C+DATA+STRUCTURES+%7C+PROBLEM+SOLVING;%3E+DYNAMIC+PROGRAMMING+%7C+GRAPH+THEORY+%7C+MATHEMATICS;%3E+COMPETITIVE+PROGRAMMING+ENTHUSIAST+AND+PROBLEM+SOLVER" alt="CP Skills" />
+</p>
+
+<br>
+
 <!-- Game Dev & Design Badge -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=999999&color=478CBF&center=true&vCenter=true&width=700&lines=%3E+GAME+DESIGN+%26+DEVELOPMENT+WITH+GODOT+ENGINE" alt="Godot Badge" />
